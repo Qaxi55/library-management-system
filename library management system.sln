@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "library management system", "library management system\library management system.vcxproj", "{63F8B070-F06C-4528-824C-4E69A0402EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F8B070-F06C-4528-824C-4E69A0402EDB}.Debug|x64.ActiveCfg = Debug|x64
+		{63F8B070-F06C-4528-824C-4E69A0402EDB}.Debug|x64.Build.0 = Debug|x64
+		{63F8B070-F06C-4528-824C-4E69A0402EDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{63F8B070-F06C-4528-824C-4E69A0402EDB}.Debug|x86.Build.0 = Debug|Win32
+		{63F8B070-F06C-4528-824C-4E69A0402EDB}.Release|x64.ActiveCfg = Release|x64
+		{63F8B070-F06C-4528-824C-4E69A0402EDB}.Release|x64.Build.0 = Release|x64
+		{63F8B070-F06C-4528-824C-4E69A0402EDB}.Release|x86.ActiveCfg = Release|Win32
+		{63F8B070-F06C-4528-824C-4E69A0402EDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC6C317-99A2-4141-B620-413FA94E89D2}
+	EndGlobalSection
+EndGlobal
